@@ -10,6 +10,9 @@ Nginx has become the standard for serving up web applications and has the
 additional benefit that it can talk to uWSGI using the uWSGI protocol, further
 elinimating overhead. 
 
+This repo is a fork of https://github.com/baxeico/django-uwsgi-nginx, I made some modifications to have it run https://github.com/mumoj/Monitoring-a-Django-Multiprocessed-App out of the box
+
+
 Feel free to clone this and modify it to your liking. And feel free to 
 contribute patches.
 
